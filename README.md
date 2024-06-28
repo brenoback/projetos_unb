@@ -1,2 +1,3 @@
-# projetos_unb
-Códigos em Python para resolução de exercícios propostos na matéria de Algoritmos e Programação de Computadores na UnB.
+# Projetos UnB
+
+Códigos em Python para a resolução de exercícios propostos na disciplina de Algoritmos e Programação de Computadores na Universídade de Brasília.
